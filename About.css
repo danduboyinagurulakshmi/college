@@ -1,0 +1,9 @@
+.about-section ul {
+     /* space for bullets */
+  text-align: center;       /* left-align text */
+  list-style-type: disc; /* normal bullets */
+}
+.about-section ul h2 {
+    max-width: 1000px;        /* limit width *//* push list to LEFT */
+    padding-left: 800px; 
+}

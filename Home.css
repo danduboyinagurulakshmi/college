@@ -1,0 +1,21 @@
+.Awards-clg ul {
+  max-width: 400px;        /* limit width *//* push list to LEFT */
+  padding-left: 500px;     /* space for bullets */
+  text-align: center;       /* left-align text */
+  list-style-type: disc; /* normal bullets */
+}
+.footer-clg {
+  max-width: 300px;        /* limit width */
+  text-align: left;       /* left-align text */
+}
+.Intro-text,
+.About-clg {
+  max-width: 900px;
+  margin: 30px auto;
+  text-align: center;
+}
+.image-content {
+  display: flex;
+  gap: 300px;
+}
+
